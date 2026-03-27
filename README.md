@@ -1,3 +1,9 @@
+> [!WARNING]
+> **This project has moved.**
+> Terraclaim has been rebranded to **[CloudtoRepo](https://github.com/andrewbakercloudscale/cloudtorepo)** and all active development continues there.
+> Please update your bookmarks, re-star the new repo, and use the new repository going forward.
+> This repo will be archived shortly.
+
 <p align="center">
   <img src="terraclaim.jpg" alt="Terraclaim" width="160" />
 </p>
